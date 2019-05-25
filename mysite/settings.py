@@ -25,7 +25,7 @@ SECRET_KEY = '1t30qk^o@*-j0$#_0t=(lp(#4egr(t*=m$s87iiou1@bs0)f5s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'agile-lake-88250.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'agile-lake-88250.herokuapp.com', 'joel-karlen-frist-app.herokuapp.com']
 
 
 # Application definition
